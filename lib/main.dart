@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'loginScreen.dart';
+import 'profile.dart';
+
 
 void main() {
   runApp(MyApp());
@@ -11,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Flutter UI",
       debugShowCheckedModeBanner: false,
-      home: LoginScreen(),
+      home: card(),
     );
   }
 }

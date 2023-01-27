@@ -1,4 +1,4 @@
-#Fri Nov 11 00:32:43 IST 2022
-base.0=/Users/shashankkarkera/Desktop/evnav/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Fri Jan 27 23:00:05 IST 2023
+base.0=C\:\\Users\\praba\\OneDrive\\Desktop\\evnav\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
